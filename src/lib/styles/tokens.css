@@ -1,0 +1,2 @@
+:root{--xp-blue:#3A6EA5;--xp-blue-inactive:#7BA7D7;--xp-gray:#D4D0C8;--xp-border:#808080;--xp-hi:#fff;--xp-shadow:#404040;--xp-toolbar:#E5F1FB;--text:#000}
+*{box-sizing:border-box}html,body,#app{height:100%}body{margin:0;font-family:Tahoma,Segoe UI,sans-serif;color:var(--text);overflow:hidden}.bliss{position:fixed;inset:0;z-index:-1;background:linear-gradient(#6bb6ff 0 55%,#7ec3ff 55% 60%,#8fd000 60% 100%);}
