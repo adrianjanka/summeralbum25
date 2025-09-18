@@ -5,24 +5,14 @@
       "title": "Kaputt",
       "artist": "Destroyer",
       "year": 2011,
-      "genres": [
-        "Indie Rock",
-        "Art Pop",
-        "Dream Pop"
-      ],
+      "genres": ["Indie Rock", "Art Pop", "Dream Pop"],
       "length": "50:05"
     },
-    "rating": 6,
-    "labels": [
-      "chill",
-      "road trip"
-    ],
+    "rating": 9.5,
+    "labels": ["chill", "road trip"],
     "favTrack": "Suicide Demo for Kara Walker",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "träumerisch, verspielt – ideal für entspannte Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-05",
@@ -30,24 +20,14 @@
       "title": "Favourite Worst Nightmare",
       "artist": "Arctic Monkeys",
       "year": 2007,
-      "genres": [
-        "Indie Rock",
-        "Garage Rock",
-        "Post-Punk Revival"
-      ],
+      "genres": ["Indie Rock", "Garage Rock", "Post-Punk Revival"],
       "length": "37:17"
     },
     "rating": 8,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "labels": ["party", "night drive"],
     "favTrack": "505",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "energiegeladen, schnell – perfekt für die Nacht.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-06",
@@ -55,24 +35,14 @@
       "title": "OK Computer",
       "artist": "Radiohead",
       "year": 1997,
-      "genres": [
-        "Alternative Rock",
-        "Art Rock",
-        "Experimental Rock"
-      ],
+      "genres": ["Alternative Rock", "Art Rock", "Experimental Rock"],
       "length": "53:27"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
+    "rating": 8,
+    "labels": ["deep dive", "road trip"],
     "favTrack": "No Surprises",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "melancholisch, nachdenklich – ein Klassiker zum Eintauchen.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-07",
@@ -80,23 +50,14 @@
       "title": "If You're Feeling Sinister",
       "artist": "Belle and Sebastian",
       "year": 1996,
-      "genres": [
-        "Chamber Pop",
-        "Indie Pop",
-        "Twee Pop"
-      ],
+      "genres": ["Chamber Pop", "Indie Pop", "Twee Pop"],
       "length": "41:22"
     },
-    "rating": 5,
-    "labels": [
-      "focus"
-    ],
+    "rating": 8.5,
+    "labels": ["focus"],
     "favTrack": "Get Me Away from Here, I'm Dying",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "zart, verspielt – perfekt für ruhige Nachmittage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-08",
@@ -104,24 +65,14 @@
       "title": "An Awesome Wave",
       "artist": "alt-J",
       "year": 2012,
-      "genres": [
-        "Indie Rock",
-        "Art Rock",
-        "Experimental Pop"
-      ],
+      "genres": ["Indie Rock", "Art Rock", "Experimental Pop"],
       "length": "48:38"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
-    "favTrack": "Breezeblocks",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8,
+    "labels": ["deep dive", "road trip"],
+    "favTrack": "Matilda",
+    "note": "experimentell, detailreich – ideal zum Entdecken.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-09",
@@ -129,24 +80,14 @@
       "title": "Veneer",
       "artist": "José González",
       "year": 2003,
-      "genres": [
-        "Indie Folk",
-        "Acoustic",
-        "Singer-Songwriter"
-      ],
+      "genres": ["Indie Folk", "Acoustic", "Singer-Songwriter"],
       "length": "30:18"
     },
-    "rating": 8,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "rating": 8.5,
+    "labels": ["chill", "sunny"],
     "favTrack": "Heartbeats",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "ruhig, minimalistisch – perfekt für sonnige Nachmittage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-10",
@@ -154,23 +95,14 @@
       "title": "Turn On the Bright Lights",
       "artist": "Interpol",
       "year": 2002,
-      "genres": [
-        "Post-Punk Revival",
-        "Indie Rock"
-      ],
+      "genres": ["Post-Punk Revival", "Indie Rock"],
       "length": "49:00"
     },
-    "rating": 9,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "rating": 8.5,
+    "labels": ["party", "night drive"],
     "favTrack": "Obstacle 1",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "düster, treibend – der perfekte Soundtrack für die Nacht.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-11",
@@ -178,24 +110,14 @@
       "title": "Neon Golden",
       "artist": "The Notwist",
       "year": 2002,
-      "genres": [
-        "Indie Rock",
-        "Electronica",
-        "Post-Rock"
-      ],
+      "genres": ["Indie Rock", "Electronica", "Post-Rock"],
       "length": "42:49"
     },
-    "rating": 6,
-    "labels": [
-      "deep dive",
-      "night drive"
-    ],
+    "rating": 7.5,
+    "labels": ["deep dive", "night drive"],
     "favTrack": "Pilot",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "elektronisch, introspektiv – ideal zum Versinken.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-12",
@@ -203,24 +125,14 @@
       "title": "You Forgot It in People",
       "artist": "Broken Social Scene",
       "year": 2002,
-      "genres": [
-        "Indie Rock",
-        "Baroque Pop",
-        "Post-Rock"
-      ],
+      "genres": ["Indie Rock", "Baroque Pop", "Post-Rock"],
       "length": "56:04"
     },
-    "rating": 4,
-    "labels": [
-      "deep dive",
-      "sunny"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "sunny"],
     "favTrack": "Anthems for a Seventeen-Year Old Girl",
-    "note": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "verspielt, warm – ideal für sonnige Tage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-13",
@@ -228,24 +140,14 @@
       "title": "Hospice",
       "artist": "The Antlers",
       "year": 2009,
-      "genres": [
-        "Indie Rock",
-        "Dream Pop",
-        "Chamber Pop"
-      ],
+      "genres": ["Indie Rock", "Dream Pop", "Chamber Pop"],
       "length": "51:04"
     },
-    "rating": 7,
-    "labels": [
-      "chill",
-      "road trip"
-    ],
+    "rating": 7.5,
+    "labels": ["chill", "road trip"],
     "favTrack": "Kettering",
-    "note": "traeumerisch – gut fuer chill & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "träumerisch – gut für chill & road trip.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-14",
@@ -253,23 +155,14 @@
       "title": "Haubi Songs",
       "artist": "Züri West",
       "year": 2008,
-      "genres": [
-        "Mundart-Rock",
-        "Schweizer Indie",
-        "Alternative"
-      ],
+      "genres": ["Mundart-Rock", "Schweizer Indie", "Alternative"],
       "length": "40:00"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8.5,
+    "labels": ["focus"],
+    "favTrack": "05:55",
+    "note": "indie – gut für focus.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-15",
@@ -277,24 +170,14 @@
       "title": "Back to Black",
       "artist": "Amy Winehouse",
       "year": 2006,
-      "genres": [
-        "Soul",
-        "R&B",
-        "Retro-Pop",
-        "Jazz"
-      ],
+      "genres": ["Soul", "R&B", "Retro-Pop", "Jazz"],
       "length": "35:24"
     },
-    "rating": 8,
-    "labels": [
-      "focus"
-    ],
+    "rating": 8.5,
+    "labels": ["focus"],
     "favTrack": "Back to Black",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "soulig, intensiv – perfekt für konzentrierte Abende.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-16",
@@ -302,23 +185,14 @@
       "title": "Grande",
       "artist": "Von Wegen Lisbeth",
       "year": 2019,
-      "genres": [
-        "Deutscher Indiepop",
-        "Elektro-Pop",
-        "Alternative"
-      ],
+      "genres": ["Deutscher Indiepop", "Elektro-Pop", "Alternative"],
       "length": "42:32"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 7.5,
+    "labels": ["focus"],
+    "favTrack": "Meine Kneipe",
+    "note": "indie – gut für focus.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-17",
@@ -326,23 +200,14 @@
       "title": "Sei ein Faber im Wind",
       "artist": "Faber",
       "year": 2017,
-      "genres": [
-        "Deutschsprachiger Indie",
-        "Chanson",
-        "Folk"
-      ],
+      "genres": ["Deutschsprachiger Indie", "Chanson", "Folk"],
       "length": "47:10"
     },
-    "rating": 7,
-    "labels": [
-      "sunny"
-    ],
-    "favTrack": "",
-    "note": "warm – gut fuer sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 7.5,
+    "labels": ["sunny"],
+    "favTrack": "Alles Gute",
+    "note": "warm – gut für sunny.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-18",
@@ -350,25 +215,14 @@
       "title": "Skeleton Tree",
       "artist": "Nick Cave & The Bad Seeds",
       "year": 2016,
-      "genres": [
-        "Alternative Rock",
-        "Ambient",
-        "Experimental",
-        "Art Rock"
-      ],
+      "genres": ["Alternative Rock", "Ambient", "Experimental", "Art Rock"],
       "length": "39:44"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "road trip"],
     "favTrack": "I Need You",
-    "note": "traeumerisch, experimentell – gut fuer deep dive & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "träumerisch, experimentell – gut für deep dive & road trip.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-19",
@@ -376,25 +230,14 @@
       "title": "Good Lies",
       "artist": "Overmono",
       "year": 2023,
-      "genres": [
-        "Electronica",
-        "UK Bass",
-        "Breakbeat",
-        "Experimental Pop"
-      ],
+      "genres": ["Electronica", "UK Bass", "Breakbeat", "Experimental Pop"],
       "length": "45:53"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "night drive"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "night drive"],
     "favTrack": "Is U",
-    "note": "synthetisch, experimentell – gut fuer deep dive & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "synthetisch, experimentell – gut für deep dive & night drive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-20",
@@ -402,24 +245,14 @@
       "title": "Either/Or",
       "artist": "Elliott Smith",
       "year": 1997,
-      "genres": [
-        "Indie Folk",
-        "Lo-Fi",
-        "Singer-Songwriter"
-      ],
+      "genres": ["Indie Folk", "Lo-Fi", "Singer-Songwriter"],
       "length": "36:16"
     },
-    "rating": 8,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "rating": 7,
+    "labels": ["chill", "sunny"],
     "favTrack": "Between the Bars",
-    "note": "warm – gut fuer chill & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm – gut für chill & sunny.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-21",
@@ -427,23 +260,14 @@
       "title": "L’Imprudence",
       "artist": "Alain Bashung",
       "year": 2002,
-      "genres": [
-        "Chanson Noir",
-        "Experimental Pop",
-        "Avant-Rock"
-      ],
+      "genres": ["Chanson Noir", "Experimental Pop", "Avant-Rock"],
       "length": "56:17"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive"],
     "favTrack": "",
-    "note": "experimentell – gut fuer deep dive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "experimentell – gut für deep dive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-22",
@@ -451,24 +275,14 @@
       "title": "Shallow Grave",
       "artist": "The Tallest Man on Earth",
       "year": 2008,
-      "genres": [
-        "Indie Folk",
-        "Singer-Songwriter",
-        "Acoustic"
-      ],
+      "genres": ["Indie Folk", "Singer-Songwriter", "Acoustic"],
       "length": "33:50"
     },
     "rating": 7,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "labels": ["chill", "sunny"],
     "favTrack": "The Gardener",
-    "note": "warm – gut fuer chill & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm – gut für chill & sunny.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-23",
@@ -476,49 +290,29 @@
       "title": "Self-Inclusion",
       "artist": "Dino Brandão",
       "year": 2024,
-      "genres": [
-        "Global Pop",
-        "Indie",
-        "Experimental",
-        "Singer-Songwriter"
-      ],
+      "genres": ["Global Pop", "Indie", "Experimental", "Singer-Songwriter"],
       "length": "43:00"
     },
     "rating": 7,
-    "labels": [
-      "deep dive",
-      "chill"
-    ],
-    "favTrack": "",
-    "note": "experimentell – gut fuer deep dive & chill.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["deep dive", "chill"],
+    "favTrack": "Bouncy Castle",
+    "note": "experimentell – gut für deep dive & chill.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-24",
     "album": {
       "title": "Wer bringt mich jetzt zu den Anderen",
-      "artist": "Gisbert zu Knyphausen",
+      "artist": "Die Höchste Eisenbahn",
       "year": 2013,
-      "genres": [
-        "Deutschsprachiger Indie",
-        "Liedermacher",
-        "Folk-Rock"
-      ],
+      "genres": ["Deutschsprachiger Indie", "Liedermacher", "Folk-Rock"],
       "length": "43:03"
     },
-    "rating": 7,
-    "labels": [
-      "sunny"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny"],
     "favTrack": "",
-    "note": "warm – gut fuer sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm – gut für sunny.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-25",
@@ -526,49 +320,29 @@
       "title": "Moon Safari",
       "artist": "Air",
       "year": 1998,
-      "genres": [
-        "Downtempo",
-        "Electronica",
-        "Chillout",
-        "French Pop"
-      ],
+      "genres": ["Downtempo", "Electronica", "Chillout", "French Pop"],
       "length": "43:38"
     },
-    "rating": 9,
-    "labels": [
-      "chill",
-      "night drive"
-    ],
+    "rating": 9.5,
+    "labels": ["chill", "night drive"],
     "favTrack": "La femme d'argent",
-    "note": "synthetisch, entspannt – gut fuer chill & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "synthetisch, entspannt – gut für chill & night drive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-26",
     "album": {
-      "title": "Alles Liebe. Nachträglich.",
-      "artist": "Tristan Brusch",
-      "year": 2019,
-      "genres": [
-        "Indiepop",
-        "Chanson",
-        "Art Pop"
-      ],
-      "length": "41:15"
+      "title": "Alle Liebe nachträglich",
+      "artist": "Mine, Fatoni",
+      "year": 2017,
+      "genres": ["Indiepop", "Chanson", "Art Pop"],
+      "length": "37:32"
     },
     "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["focus"],
+    "favTrack": "Romcom",
+    "note": "indie – gut für focus.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-27",
@@ -576,25 +350,14 @@
       "title": "For Emma, Forever Ago",
       "artist": "Bon Iver",
       "year": 2007,
-      "genres": [
-        "Indie Folk",
-        "Acoustic",
-        "Lo-Fi",
-        "Singer-Songwriter"
-      ],
+      "genres": ["Indie Folk", "Acoustic", "Lo-Fi", "Singer-Songwriter"],
       "length": "37:57"
     },
     "rating": 7,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "labels": ["chill", "sunny"],
     "favTrack": "Skinny Love",
-    "note": "warm – gut fuer chill & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm – gut für chill & sunny.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-28",
@@ -602,23 +365,14 @@
       "title": "Alles war schön und nichts tat weh",
       "artist": "Casper",
       "year": 2022,
-      "genres": [
-        "Deutscher Indie-Rap",
-        "Alternative Pop",
-        "Emo-Rock"
-      ],
+      "genres": ["Deutscher Indie-Rap", "Alternative Pop", "Emo-Rock"],
       "length": "44:42"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "Alles war schoen und nichts tat weh",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8,
+    "labels": ["focus"],
+    "favTrack": "Fabian",
+    "note": "indie – gut für focus.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-29",
@@ -626,23 +380,14 @@
       "title": "Jeans for Jesus",
       "artist": "Jeans for Jesus",
       "year": 2014,
-      "genres": [
-        "Mundart-Elektropop",
-        "Indie",
-        "Synthpop"
-      ],
+      "genres": ["Mundart-Elektropop", "Indie", "Synthpop"],
       "length": "51:00"
     },
     "rating": 7,
-    "labels": [
-      "night drive"
-    ],
-    "favTrack": "",
-    "note": "synthetisch – gut fuer night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["night drive"],
+    "favTrack": "Estavayeah",
+    "note": "synthetisch – gut für night drive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-30",
@@ -650,24 +395,14 @@
       "title": "The Overload",
       "artist": "Yard Act",
       "year": 2022,
-      "genres": [
-        "Post-Punk",
-        "Indie Rock",
-        "Spoken Word"
-      ],
+      "genres": ["Post-Punk", "Indie Rock", "Spoken Word"],
       "length": "37:14"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "night drive"
-    ],
-    "favTrack": "The Overload",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 9.5,
+    "labels": ["party", "night drive"],
+    "favTrack": "Fixer Upper",
+    "note": "kantig – gut für party & night drive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-07-31",
@@ -675,24 +410,14 @@
       "title": "Is This It",
       "artist": "The Strokes",
       "year": 2001,
-      "genres": [
-        "Garage Rock Revival",
-        "Indie Rock",
-        "Post-Punk Revival"
-      ],
+      "genres": ["Garage Rock Revival", "Indie Rock", "Post-Punk Revival"],
       "length": "35:01"
     },
     "rating": 8,
-    "labels": [
-      "party",
-      "night drive"
-    ],
-    "favTrack": "Last Nite",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["party", "night drive"],
+    "favTrack": "Someday",
+    "note": "kantig – gut für party & night drive.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-01",
@@ -700,23 +425,14 @@
       "title": "Leave Me Baby",
       "artist": "Crimer",
       "year": 2018,
-      "genres": [
-        "Synthpop",
-        "Indiepop",
-        "New Wave"
-      ],
+      "genres": ["Synthpop", "Indiepop", "New Wave"],
       "length": "46:00"
     },
-    "rating": 7,
-    "labels": [
-      "night drive"
-    ],
-    "favTrack": "",
-    "note": "synthetisch – gut fuer night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8,
+    "labels": ["night drive"],
+    "favTrack": "Brotherlove",
+    "note": "retro, tanzbar – perfekt für nächtliche Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-02",
@@ -724,24 +440,14 @@
       "title": "Carrie & Lowell",
       "artist": "Sufjan Stevens",
       "year": 2015,
-      "genres": [
-        "Indie Folk",
-        "Singer-Songwriter",
-        "Acoustic"
-      ],
+      "genres": ["Indie Folk", "Singer-Songwriter", "Acoustic"],
       "length": "43:59"
     },
-    "rating": 7,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "rating": 9,
+    "labels": ["chill", "sunny"],
     "favTrack": "Fourth of July",
-    "note": "warm – gut fuer chill & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "zart, emotional – perfekt für einen ruhigen Nachmittag.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-03",
@@ -749,23 +455,14 @@
       "title": "kleine Feuer",
       "artist": "Paula Hartmann",
       "year": 2024,
-      "genres": [
-        "Deutschpop",
-        "Trap-Pop",
-        "Indiepop"
-      ],
+      "genres": ["Deutschpop", "Trap-Pop", "Indiepop"],
       "length": "44:00"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8.5,
+    "labels": ["focus"],
+    "favTrack": "DLIT (die Liebe ist tot)",
+    "note": "modern, nachdenklich – ideal für konzentrierte Sessions.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-04",
@@ -773,24 +470,14 @@
       "title": "Making Time",
       "artist": "Jamie Woon",
       "year": 2015,
-      "genres": [
-        "Alternative R&B",
-        "Soul",
-        "Electronica",
-        "Indie"
-      ],
+      "genres": ["Alternative R&B", "Soul", "Electronica", "Indie"],
       "length": "39:20"
     },
-    "rating": 7,
-    "labels": [
-      "night drive"
-    ],
+    "rating": 7.5,
+    "labels": ["night drive"],
     "favTrack": "Sharpness",
-    "note": "synthetisch – gut fuer night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "smooth, elektronisch – ideal für späte Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-05",
@@ -798,24 +485,14 @@
       "title": "Punisher",
       "artist": "Phoebe Bridgers",
       "year": 2020,
-      "genres": [
-        "Indie Folk",
-        "Singer-Songwriter",
-        "Emo-Folk"
-      ],
+      "genres": ["Indie Folk", "Singer-Songwriter", "Emo-Folk"],
       "length": "40:38"
     },
-    "rating": 7,
-    "labels": [
-      "chill",
-      "sunny"
-    ],
+    "rating": 8.5,
+    "labels": ["chill", "sunny"],
     "favTrack": "Kyoto",
-    "note": "warm – gut fuer chill & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm, emotional – perfekt für ruhige Sommertage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-06",
@@ -823,23 +500,14 @@
       "title": "Forever Is a Feeling",
       "artist": "Lucy Dacus",
       "year": 2025,
-      "genres": [
-        "Indie Rock",
-        "Folk-Pop"
-      ],
+      "genres": ["Indie Rock", "Folk-Pop"],
       "length": "43:32"
     },
-    "rating": 7,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny", "road trip"],
     "favTrack": "",
-    "note": "warm – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm – gut für sunny & road trip.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-07",
@@ -847,23 +515,14 @@
       "title": "Melodrama",
       "artist": "Lorde",
       "year": 2017,
-      "genres": [
-        "Electropop",
-        "Art Pop",
-        "Indie Pop"
-      ],
+      "genres": ["Electropop", "Art Pop", "Indie Pop"],
       "length": "40:58"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
+    "rating": 8.5,
+    "labels": ["focus"],
     "favTrack": "Green Light",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "dramatisch, energiegeladen – inspiriert beim Arbeiten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-08",
@@ -871,24 +530,14 @@
       "title": "Wasting Light",
       "artist": "Foo Fighters",
       "year": 2011,
-      "genres": [
-        "Alternative Rock",
-        "Hard Rock",
-        "Post-Grunge"
-      ],
+      "genres": ["Alternative Rock", "Hard Rock", "Post-Grunge"],
       "length": "47:00"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "road trip"
-    ],
+    "rating": 8,
+    "labels": ["party", "road trip"],
     "favTrack": "Walk",
-    "note": "indie – gut fuer party & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "druckvoll, stadiontauglich – perfekt für Roadtrips mit Energie.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-09",
@@ -896,24 +545,14 @@
       "title": "Elephant",
       "artist": "The White Stripes",
       "year": 2003,
-      "genres": [
-        "Garage Rock",
-        "Blues Rock",
-        "Alternative Rock"
-      ],
+      "genres": ["Garage Rock", "Blues Rock", "Alternative Rock"],
       "length": "49:56"
     },
-    "rating": 8,
-    "labels": [
-      "party",
-      "road trip"
-    ],
+    "rating": 9,
+    "labels": ["party", "road trip"],
     "favTrack": "Seven Nation Army",
-    "note": "kantig – gut fuer party & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "roh, legendär – ein Garant für Adrenalin.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-10",
@@ -921,23 +560,14 @@
       "title": "Automatic for the People",
       "artist": "R.E.M.",
       "year": 1992,
-      "genres": [
-        "Alternative Rock",
-        "Folk Rock"
-      ],
+      "genres": ["Alternative Rock", "Folk Rock"],
       "length": "48:52"
     },
-    "rating": 7,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny", "road trip"],
     "favTrack": "Everybody Hurts",
-    "note": "warm – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "warm, tröstlich – perfekt für lange Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-11",
@@ -945,24 +575,14 @@
       "title": "Aha Shake Heartbreak",
       "artist": "Kings of Leon",
       "year": 2004,
-      "genres": [
-        "Garage Rock",
-        "Southern Rock",
-        "Indie Rock"
-      ],
+      "genres": ["Garage Rock", "Southern Rock", "Indie Rock"],
       "length": "35:04"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "road trip"
-    ],
+    "rating": 8,
+    "labels": ["party", "road trip"],
     "favTrack": "The Bucket",
-    "note": "kantig – gut fuer party & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "wild, treibend – perfekt für lange Sommerfahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-12",
@@ -970,24 +590,14 @@
       "title": "Funeral",
       "artist": "Arcade Fire",
       "year": 2004,
-      "genres": [
-        "Indie Rock",
-        "Baroque Pop",
-        "Art Rock"
-      ],
+      "genres": ["Indie Rock", "Baroque Pop", "Art Rock"],
       "length": "48:57"
     },
     "rating": 9,
-    "labels": [
-      "deep dive",
-      "sunny"
-    ],
+    "labels": ["deep dive", "sunny"],
     "favTrack": "Rebellion (Lies)",
-    "note": "experimentell – gut fuer deep dive & sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "episch, mitreißend – ein Klassiker für tiefe Hörerlebnisse.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-13",
@@ -995,23 +605,14 @@
       "title": "Brothers",
       "artist": "The Black Keys",
       "year": 2010,
-      "genres": [
-        "Blues Rock",
-        "Garage Rock",
-        "Soul Rock"
-      ],
+      "genres": ["Blues Rock", "Garage Rock", "Soul Rock"],
       "length": "55:33"
     },
-    "rating": 7,
-    "labels": [
-      "party"
-    ],
+    "rating": 8.5,
+    "labels": ["party"],
     "favTrack": "Tighten Up",
-    "note": "kantig – gut fuer party.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "groovig, schmutzig – perfekt für eine energiegeladene Party.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-14",
@@ -1019,23 +620,14 @@
       "title": "AM",
       "artist": "Arctic Monkeys",
       "year": 2013,
-      "genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "R&B-inspiriert"
-      ],
+      "genres": ["Indie Rock", "Psychedelic Rock", "R&B-inspiriert"],
       "length": "41:51"
     },
-    "rating": 7,
-    "labels": [
-      "road trip"
-    ],
-    "favTrack": "Do I Wanna Know?",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 10,
+    "labels": ["road trip"],
+    "favTrack": "Arabella",
+    "note": "cool, verführerisch – der perfekte Soundtrack für eine nächtliche Fahrt.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-15",
@@ -1043,23 +635,14 @@
       "title": "Brothers in Arms",
       "artist": "Dire Straits",
       "year": 1985,
-      "genres": [
-        "Rock",
-        "Roots Rock",
-        "Blues Rock"
-      ],
+      "genres": ["Rock", "Roots Rock", "Blues Rock"],
       "length": "55:07"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
+    "rating": 9,
+    "labels": ["focus"],
     "favTrack": "Money for Nothing",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "episch, entspannt – perfekt für fokussiertes Arbeiten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-16",
@@ -1067,22 +650,14 @@
       "title": "Rumours",
       "artist": "Fleetwood Mac",
       "year": 1977,
-      "genres": [
-        "Soft Rock",
-        "Pop Rock"
-      ],
+      "genres": ["Soft Rock", "Pop Rock"],
       "length": "39:03"
     },
-    "rating": 9,
-    "labels": [
-      "sunny"
-    ],
-    "favTrack": "Dreams",
-    "note": "indie – gut fuer sunny.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 9.5,
+    "labels": ["sunny"],
+    "favTrack": "The Chain",
+    "note": "zeitlos, sonnig – ein Klassiker für jeden Tag.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-17",
@@ -1090,24 +665,14 @@
       "title": "The Bends",
       "artist": "Radiohead",
       "year": 1995,
-      "genres": [
-        "Alternative Rock",
-        "Britpop",
-        "Indie Rock"
-      ],
+      "genres": ["Alternative Rock", "Britpop", "Indie Rock"],
       "length": "48:37"
     },
-    "rating": 8,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
-    "favTrack": "Fake Plastic Trees",
-    "note": "indie – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 9,
+    "labels": ["sunny", "road trip"],
+    "favTrack": "High and Dry",
+    "note": "kraftvoll, melancholisch – perfekt für sonnige Roadtrips.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-18",
@@ -1115,23 +680,14 @@
       "title": "Different Class",
       "artist": "Pulp",
       "year": 1995,
-      "genres": [
-        "Britpop",
-        "Indie Rock"
-      ],
+      "genres": ["Britpop", "Indie Rock"],
       "length": "52:02"
     },
-    "rating": 8,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny", "road trip"],
     "favTrack": "Common People",
-    "note": "indie – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "britpop in Reinform – perfekt für sonnige Nachmittage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-19",
@@ -1139,23 +695,14 @@
       "title": "Sound & Color",
       "artist": "Alabama Shakes",
       "year": 2015,
-      "genres": [
-        "Alternative Rock",
-        "Soul",
-        "Blues Rock"
-      ],
+      "genres": ["Alternative Rock", "Soul", "Blues Rock"],
       "length": "47:02"
     },
-    "rating": 7,
-    "labels": [
-      "road trip"
-    ],
-    "favTrack": "Dont Wanna Fight",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8,
+    "labels": ["road trip"],
+    "favTrack": "Don't Wanna Fight",
+    "note": "soulig, kräftig – perfekt für energiegeladene Fahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-20",
@@ -1163,22 +710,14 @@
       "title": "The Doors",
       "artist": "The Doors",
       "year": 1967,
-      "genres": [
-        "Psychedelic Rock",
-        "Blues Rock"
-      ],
+      "genres": ["Psychedelic Rock", "Blues Rock"],
       "length": "44:48"
     },
-    "rating": 7,
-    "labels": [
-      "focus"
-    ],
-    "favTrack": "Light My Fire",
-    "note": "indie – gut fuer focus.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8.5,
+    "labels": ["focus"],
+    "favTrack": "The End",
+    "note": "psychedelisch, hypnotisch – gut für kreative Fokusphasen.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-21",
@@ -1186,24 +725,14 @@
       "title": "Schick Schock",
       "artist": "Bilderbuch",
       "year": 2015,
-      "genres": [
-        "Indie Rock",
-        "Art Pop",
-        "Pop Rock"
-      ],
+      "genres": ["Indie Rock", "Art Pop", "Pop Rock"],
       "length": "41:52"
     },
-    "rating": 7,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny", "road trip"],
     "favTrack": "Maschin",
-    "note": "indie – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "stylish, verspielt – perfekt für sonnige Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-22",
@@ -1211,23 +740,14 @@
       "title": "Ten",
       "artist": "Pearl Jam",
       "year": 1991,
-      "genres": [
-        "Grunge",
-        "Alternative Rock"
-      ],
+      "genres": ["Grunge", "Alternative Rock"],
       "length": "53:20"
     },
     "rating": 9,
-    "labels": [
-      "party",
-      "road trip"
-    ],
+    "labels": ["party", "road trip"],
     "favTrack": "Alive",
-    "note": "indie – gut fuer party & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "energiegeladen, emotional – ein Grunge-Meilenstein.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-23",
@@ -1235,23 +755,14 @@
       "title": "High Violet",
       "artist": "The National",
       "year": 2010,
-      "genres": [
-        "Indie Rock",
-        "Art Rock"
-      ],
+      "genres": ["Indie Rock", "Art Rock"],
       "length": "47:41"
     },
-    "rating": 8,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "road trip"],
     "favTrack": "Bloodbuzz Ohio",
-    "note": "experimentell – gut fuer deep dive & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "düster, intensiv – ideal für nachdenkliche Fahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-24",
@@ -1259,22 +770,14 @@
       "title": "The Queen Is Dead",
       "artist": "The Smiths",
       "year": 1986,
-      "genres": [
-        "Indie Rock",
-        "Alternative Rock"
-      ],
+      "genres": ["Indie Rock", "Alternative Rock"],
       "length": "37:07"
     },
     "rating": 9,
-    "labels": [
-      "road trip"
-    ],
+    "labels": ["road trip"],
     "favTrack": "There Is a Light That Never Goes Out",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "melancholisch, hymnisch – ein Muss für Roadtrips.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-25",
@@ -1282,23 +785,14 @@
       "title": "Unknown Pleasures",
       "artist": "Joy Division",
       "year": 1979,
-      "genres": [
-        "Post-Punk",
-        "Alternative Rock"
-      ],
+      "genres": ["Post-Punk", "Alternative Rock"],
       "length": "39:28"
     },
-    "rating": 9,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "rating": 9.5,
+    "labels": ["party", "night drive"],
     "favTrack": "Disorder",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "düster, ikonisch – perfekt für späte Nächte.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-26",
@@ -1306,24 +800,14 @@
       "title": "Franz Ferdinand",
       "artist": "Franz Ferdinand",
       "year": 2004,
-      "genres": [
-        "Indie Rock",
-        "Post-Punk Revival",
-        "Dance-Punk"
-      ],
+      "genres": ["Indie Rock", "Post-Punk Revival", "Dance-Punk"],
       "length": "38:49"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "rating": 8.5,
+    "labels": ["party", "night drive"],
     "favTrack": "Take Me Out",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "tanzbar, kantig – bringt jede Party in Schwung.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-27",
@@ -1331,24 +815,14 @@
       "title": "Hot Fuss",
       "artist": "The Killers",
       "year": 2004,
-      "genres": [
-        "Indie Rock",
-        "Post-Punk Revival",
-        "Alternative Rock"
-      ],
+      "genres": ["Indie Rock", "Post-Punk Revival", "Alternative Rock"],
       "length": "45:39"
     },
-    "rating": 8,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "rating": 9,
+    "labels": ["party", "night drive"],
     "favTrack": "Mr. Brightside",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "mitreißend, hymnisch – garantiert Partystimmung.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-28",
@@ -1356,24 +830,14 @@
       "title": "Transformer",
       "artist": "Lou Reed",
       "year": 1972,
-      "genres": [
-        "Glam Rock",
-        "Art Rock",
-        "Singer-Songwriter"
-      ],
+      "genres": ["Glam Rock", "Art Rock", "Singer-Songwriter"],
       "length": "36:40"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "chill"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "chill"],
     "favTrack": "Walk on the Wild Side",
-    "note": "experimentell – gut fuer deep dive & chill.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "cool, lässig – ein Klassiker zum Entspannen und Nachdenken.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-29",
@@ -1381,23 +845,14 @@
       "title": "Doolittle",
       "artist": "Pixies",
       "year": 1989,
-      "genres": [
-        "Alternative Rock",
-        "Indie Rock",
-        "Noise Pop"
-      ],
+      "genres": ["Alternative Rock", "Indie Rock", "Noise Pop"],
       "length": "38:38"
     },
     "rating": 9,
-    "labels": [
-      "road trip"
-    ],
-    "favTrack": "Debaser",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["road trip"],
+    "favTrack": "Here Comes Your Man",
+    "note": "wild, verspielt – perfekt für energiegeladene Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-30",
@@ -1405,24 +860,14 @@
       "title": "Parklife",
       "artist": "Blur",
       "year": 1994,
-      "genres": [
-        "Britpop",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
+      "genres": ["Britpop", "Indie Rock", "Alternative Rock"],
       "length": "52:00"
     },
-    "rating": 9,
-    "labels": [
-      "sunny",
-      "road trip"
-    ],
+    "rating": 8.5,
+    "labels": ["sunny", "road trip"],
     "favTrack": "Parklife",
-    "note": "indie – gut fuer sunny & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "lebendig, britisch – der perfekte Sound für sonnige Tage.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-08-31",
@@ -1430,24 +875,14 @@
       "title": "In Rainbows",
       "artist": "Radiohead",
       "year": 2007,
-      "genres": [
-        "Alternative Rock",
-        "Art Rock",
-        "Experimental Rock"
-      ],
+      "genres": ["Alternative Rock", "Art Rock", "Experimental Rock"],
       "length": "42:39"
     },
     "rating": 9,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
+    "labels": ["deep dive", "road trip"],
     "favTrack": "Weird Fishes/Arpeggi",
-    "note": "experimentell – gut fuer deep dive & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "traumhaft, fließend – ein Meisterwerk zum Eintauchen.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-01",
@@ -1455,23 +890,14 @@
       "title": "Crooked Rain, Crooked Rain",
       "artist": "Pavement",
       "year": 1994,
-      "genres": [
-        "Indie Rock",
-        "Lo-Fi",
-        "Alternative Rock"
-      ],
+      "genres": ["Indie Rock", "Lo-Fi", "Alternative Rock"],
       "length": "42:15"
     },
     "rating": 8,
-    "labels": [
-      "road trip"
-    ],
+    "labels": ["road trip"],
     "favTrack": "Cut Your Hair",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "lässig, verspielt – perfekt für einen entspannten Roadtrip.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-02",
@@ -1479,24 +905,14 @@
       "title": "Lost in the Dream",
       "artist": "The War on Drugs",
       "year": 2014,
-      "genres": [
-        "Indie Rock",
-        "Heartland Rock",
-        "Neo-Psychedelia"
-      ],
+      "genres": ["Indie Rock", "Heartland Rock", "Neo-Psychedelia"],
       "length": "60:51"
     },
-    "rating": 8,
-    "labels": [
-      "deep dive",
-      "road trip"
-    ],
+    "rating": 9,
+    "labels": ["deep dive", "road trip"],
     "favTrack": "Red Eyes",
-    "note": "indie – gut fuer deep dive & road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "weit, hypnotisch – ideal für lange Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-03",
@@ -1504,24 +920,14 @@
       "title": "The Velvet Underground & Nico",
       "artist": "The Velvet Underground & Nico",
       "year": 1967,
-      "genres": [
-        "Art Rock",
-        "Proto-Punk",
-        "Experimental Rock"
-      ],
+      "genres": ["Art Rock", "Proto-Punk", "Experimental Rock"],
       "length": "48:51"
     },
-    "rating": 7,
-    "labels": [
-      "deep dive",
-      "party"
-    ],
+    "rating": 8.5,
+    "labels": ["deep dive", "party"],
     "favTrack": "Sunday Morning",
-    "note": "kantig, experimentell – gut fuer deep dive & party.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "avantgardistisch, roh – spannend für späte Abende.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-04",
@@ -1529,23 +935,14 @@
       "title": "The Stone Roses",
       "artist": "The Stone Roses",
       "year": 1989,
-      "genres": [
-        "Indie Rock",
-        "Madchester",
-        "Alternative Rock"
-      ],
+      "genres": ["Indie Rock", "Madchester", "Alternative Rock"],
       "length": "49:02"
     },
-    "rating": 7,
-    "labels": [
-      "road trip"
-    ],
-    "favTrack": "I Wanna Be Adored",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 8.5,
+    "labels": ["road trip"],
+    "favTrack": "Waterfall",
+    "note": "groovig, euphorisch – perfekt für lange Autofahrten.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-05",
@@ -1553,25 +950,14 @@
       "title": "Remain in Light",
       "artist": "Talking Heads",
       "year": 1980,
-      "genres": [
-        "New Wave",
-        "Post-Punk",
-        "Art Rock",
-        "Funk Rock"
-      ],
+      "genres": ["New Wave", "Post-Punk", "Art Rock", "Funk Rock"],
       "length": "40:40"
     },
     "rating": 9,
-    "labels": [
-      "deep dive",
-      "party"
-    ],
+    "labels": ["deep dive", "party"],
     "favTrack": "Once in a Lifetime",
-    "note": "kantig, experimentell – gut fuer deep dive & party.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "groovig, experimentell – ein zeitloses Meisterwerk.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-06",
@@ -1579,22 +965,14 @@
       "title": "Du und wieviel von deinen Freunden",
       "artist": "Kettcar",
       "year": 2002,
-      "genres": [
-        "Deutscher Indie Rock",
-        "Indie Pop"
-      ],
+      "genres": ["Deutscher Indie Rock", "Indie Pop"],
       "length": "43:00"
     },
-    "rating": 7,
-    "labels": [
-      "road trip"
-    ],
-    "favTrack": "Balkon gegenueber",
-    "note": "indie – gut fuer road trip.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 7.5,
+    "labels": ["road trip"],
+    "favTrack": "Landungsbrücken raus",
+    "note": "ehrlich, bodenständig – perfekt für lange Autofahrten mit Texten zum Mitsingen.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-07",
@@ -1602,23 +980,14 @@
       "title": "The Back Room",
       "artist": "Editors",
       "year": 2005,
-      "genres": [
-        "Post-Punk Revival",
-        "Indie Rock"
-      ],
+      "genres": ["Post-Punk Revival", "Indie Rock"],
       "length": "44:43"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "night drive"
-    ],
+    "rating": 8,
+    "labels": ["party", "night drive"],
     "favTrack": "Munich",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "dunkel, treibend – perfekt für eine energiegeladene Nachtfahrt.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-08",
@@ -1626,24 +995,14 @@
       "title": "Whatever People Say I Am, That's What I'm Not",
       "artist": "Arctic Monkeys",
       "year": 2006,
-      "genres": [
-        "Indie Rock",
-        "Garage Rock Revival",
-        "Post-Punk Revival"
-      ],
+      "genres": ["Indie Rock", "Garage Rock Revival", "Post-Punk Revival"],
       "length": "41:18"
     },
-    "rating": 7,
-    "labels": [
-      "party",
-      "night drive"
-    ],
-    "favTrack": "I Bet You Look Good on the Dancefloor",
-    "note": "kantig – gut fuer party & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "rating": 9,
+    "labels": ["party", "night drive"],
+    "favTrack": "Mardy Bum",
+    "note": "roh, jugendlich – perfekt für wilde Nächte.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-09",
@@ -1651,49 +1010,28 @@
       "title": "xx",
       "artist": "The xx",
       "year": 2009,
-      "genres": [
-        "Indie Pop",
-        "Dream Pop",
-        "Minimal Wave"
-      ],
+      "genres": ["Indie Pop", "Dream Pop", "Minimal Wave"],
       "length": "38:00"
     },
-    "rating": 7,
-    "labels": [
-      "chill",
-      "night drive"
-    ],
+    "rating": 9,
+    "labels": ["chill", "night drive"],
     "favTrack": "Intro",
-    "note": "traeumerisch – gut fuer chill & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "note": "minimalistisch, träumerisch – perfekt für späte Stunden.",
+    "cover": {"source": "auto", "url": null}
   },
   {
     "date": "2025-09-10",
     "album": {
-      "title": "Moon Safari",
-      "artist": "Air",
+      "title": "Mezzanine",
+      "artist": "Massive Attack",
       "year": 1998,
-      "genres": [
-        "Downtempo",
-        "Electronica",
-        "Chillout",
-        "French Pop"
-      ],
-      "length": "43:38"
+      "genres": ["Trip Hop", "Downtempo", "Electronic"],
+      "length": "60:53"
     },
     "rating": 9,
-    "labels": [
-      "chill",
-      "night drive"
-    ],
-    "favTrack": "La femme d'argent",
-    "note": "synthetisch, entspannt – gut fuer chill & night drive.",
-    "cover": {
-      "source": "auto",
-      "url": null
-    }
+    "labels": ["chill", "night drive"],
+    "favTrack": "Teardrop",
+    "note": "dunkel, schwebend – perfekt fuer night drive & chill.",
+    "cover": { "source": "auto", "url": null }
   }
 ]
