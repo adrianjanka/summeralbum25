@@ -3,6 +3,12 @@
   import IconCard from '$lib/components/IconCard.svelte';
   import XpWindow from '$lib/components/XpWindow.svelte';
   import { sortedAlbums, windows, sortBy } from '$lib/stores/windows';
+  import { onMount } from 'svelte';
+  import { prefetchCoversSequential } from '$lib/utils/covers.js';
+  import albumsJson from '$lib/data/albums.json';
+
+  export let data;
+  const albums = data?.albums ?? albumsJson ?? [];
 
   let list = [];
   const unsub = sortedAlbums.subscribe(v=> list = v);
@@ -18,6 +24,13 @@
 let appWins = [{ id: 'xp-app-1' }];
 let nextId = 2;
 let showApp = true;
+
+
+onMount(() => {
+  if (albums && albums.length) {
+      prefetchCoversSequential(albums, 999);
+    }
+});
 
 function addApp() {
   if (appWins.length >= 3) {

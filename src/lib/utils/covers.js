@@ -29,35 +29,41 @@ export function keyOf(album) {
 }
 export function getCached(key) { return mem.get(key) || null; }
 
-export async function loadCoverFor(album) {
+export async function loadCoverFor(album, retries = 2) {
   const key = keyOf(album);
-  const hit = mem.get(key);
-  if (hit && (hit.url || hit.none)) return hit;
+  const current = mem.get(key);
 
-  setState(key, { loading: true });
+  // schon am Laden? -> bestehendes Promise zurückgeben
+  if (current?.loading && current.promise) return current.promise;
 
-  // 1) iTunes
-  try {
-    const it = await searchITunes(album);
-    if (it) {
-      const url = it.replace('100x100bb.jpg', '600x600bb.jpg');
-      setState(key, { url, loading: false });
-      return mem.get(key);
+  // Ladezustand setzen
+  const loading = { ...(current || {}), loading: true };
+  mem.set(key, loading);
+
+  const promise = (async () => {
+    try {
+      const url = await fetchCoverFromAPI(album);
+      if (!url) throw new Error('no cover');
+
+      const next = { url, loading: false, error: false };
+      mem.set(key, next);
+      persist();
+      return next;
+    } catch (e) {
+      if (retries > 0) {
+        await new Promise(r => setTimeout(r, 600));
+        return loadCoverFor(album, retries - 1);
+      }
+      const fail = { url: null, loading: false, error: true };
+      mem.set(key, fail);
+      persist();
+      return fail;
     }
-  } catch {}
+  })();
 
-  // 2) MusicBrainz + CAA
-  try {
-    const mbid = await findMusicBrainzRelease(album);
-    if (mbid) {
-      const url = `https://coverartarchive.org/release/${mbid}/front-500`;
-      setState(key, { url, loading: false });
-      return mem.get(key);
-    }
-  } catch {}
-
-  setState(key, { none: true, loading: false, error: true });
-  return mem.get(key);
+  // Promise im State merken (damit parallele Aufrufe warten)
+  mem.set(key, { ...loading, promise });
+  return promise;
 }
 
 function setState(key, partial) {
@@ -97,4 +103,57 @@ async function findMusicBrainzRelease(album) {
   // nimm ein Release mit Cover-Art Hinweis falls vorhanden, sonst erstes
   const withCover = data.releases.find(r => r['cover-art-archive']?.front);
   return (withCover || data.releases[0])?.id || null;
+}
+
+
+// 1) Versuche iTunes, 2) sonst MusicBrainz + Cover Art Archive
+async function fetchCoverFromAPI(album) {
+  // iTunes zuerst
+  const itunes = await searchITunes(album).catch(() => null);
+  if (itunes) {
+    // 100x100 → 600x600 (iTunes Trick)
+    return itunes.replace(/100x100bb\.jpg$/, '600x600bb.jpg');
+  }
+
+  // MusicBrainz Fallback
+  const mbid = await findMusicBrainzRelease(album).catch(() => null);
+  if (!mbid) return null;
+
+  // Cover Art Archive: nimm kleines Front-Cover (250/500 je nach Geschmack)
+  const caa250 = `https://coverartarchive.org/release/${mbid}/front-500`;
+  const ok = await headOk(caa250);
+  return ok ? caa250 : null;
+}
+
+// kleiner HEAD-Check (CAA liefert 404, wenn nicht vorhanden)
+async function headOk(url) {
+  try {
+    const res = await fetch(url, { method: 'HEAD' });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+
+// Sanftes Vorladen aller noch fehlenden Cover (sequentiell, idle)
+export function prefetchCoversSequential(albums, max = 999) {
+  const idle = window.requestIdleCallback || ((cb) => setTimeout(cb, 400));
+  let i = 0, done = 0;
+
+  const step = () => {
+    if (done >= max || i >= albums.length) return;
+    const a = albums[i++];
+    const k = keyOf(a);
+    const st = mem.get(k);
+
+    // nur laden, wenn noch keine URL existiert und gerade nichts lädt
+    if (!st || (!st.url && !st.loading)) {
+      loadCoverFor(a).finally(() => { done++; idle(step); });
+    } else {
+      idle(step);
+    }
+  };
+
+  idle(step);
 }
