@@ -402,9 +402,9 @@
 
           <div class="modal-body">
             {#if helpModal === 'about'}
-              <p><b>adrian’s sommerklaenge 2025</b> – ein Ferien-Tagebuch mit 70 Alben vom <b>04.07</b> bis <b>10.09.2025</b>.<br/>
+              <p><b>adrian’s sommerklaenge 2025</b> – ein Ferien-Tagebuch<br/><br/>
               XP-Style UI, klickbare Album-Icons, Fenster mit Details.</p>
-              <p class="modal-small">Version: 0.3 (Prototype) · Build: lokal · Host: adrianjanka.ch/summeralbum</p>
+              <p class="modal-small">Version: 1.0 · Build: lokal · Host: adrianjanka.ch/summeralbum</p>
             {/if}
 
             {#if helpModal === 'shortcuts'}
@@ -419,12 +419,11 @@
             {/if}
 
             {#if helpModal === 'feedback'}
-              <p>Feedback willkommen! 👋</p>
+              <p>Feedback willkommen!</p>
               <ul class="modal-list">
-                <li>GitHub Issues (Repo): <a href="https://github.com/USERNAME/summeralbum25/issues" target="_blank" rel="noreferrer">Issue erstellen</a></li>
-                <li>Mail: <a href="mailto:hello@example.com">hello@example.com</a></li>
+                <li>GitHub Issues (Repo): <a href="https://github.com/adrianjanka/summeralbum25/issues" target="_blank" rel="noreferrer">Issue erstellen</a></li>
+                <li>Mail: <a href="mailto:adi.janka@bluewin.ch">adi.janka@bluewin.ch</a></li>
               </ul>
-              <p class="modal-small">Links sind Platzhalter – bitte im Projekt ersetzen.</p>
             {/if}
 
             {#if helpModal === 'credits'}
@@ -435,7 +434,7 @@
                 <li>UI-Stil: Windows XP-inspiriert</li>
               </ul>
               <p><b>Lizenz</b></p>
-              <p class="modal-small">Code unter MIT (optional). Keine Analytics. Cover-Bilder via API – Rechte bei den jeweiligen Rechteinhabern.</p>
+              <p class="modal-small">Keine Analytics. Cover-Bilder via API – Rechte bei den jeweiligen Rechteinhabern.</p>
             {/if}
           </div>
 
