@@ -10,7 +10,7 @@
   export let x = 100, y = 100, z = 10, active = true;
 
   export let w = 720;
-  export let h = 460;
+  export let h = 540;
 
   let cacheMap = new Map();
   const unsub = coverCache.subscribe(v => (cacheMap = v));
@@ -83,8 +83,7 @@
   <div class="win-content">
     <div class="cover pixelframe">
       {#if getState(album, cacheMap)?.url}
-        <img alt="Cover" src={getState(album, cacheMap).url} class="pixel-img"
-          on:error={() => markBrokenFor(album)} />
+        <img alt="Cover" src={getState(album, cacheMap).url} class="pixel-img" />
       {:else}
         COVER
       {/if}
